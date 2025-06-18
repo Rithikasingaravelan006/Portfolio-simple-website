@@ -1,5 +1,5 @@
 # Portfolio-simple-website
- Portfolio Website
+My Portfolio Website
 This is my first personal portfolio website, created using HTML and basic CSS. It is a simple and clean project designed to showcase my learning journey as a beginner in web development.
 
 The website consists of two main pages:
